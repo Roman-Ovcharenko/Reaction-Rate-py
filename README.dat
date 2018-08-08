@@ -1,0 +1,11 @@
+
+The script is designed for calculation of the reaction rate according to the 
+Eyring transition state theory (see H. Eyring, J. Chem. Phys. 3, 107 (1935) 
+for details).
+
+Input files:
+OUTCAR_in - initial state file from harmonic frequencies calculation with VASP
+OUTCAR_ts - transition state file ...
+OUTCAR_fi - final state file ...
+
+Run main.py and follow instructions.
